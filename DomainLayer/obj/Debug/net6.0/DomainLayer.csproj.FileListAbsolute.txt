@@ -1,0 +1,5 @@
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\ConsoleAppPractise\ConsoleApp\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\ConsoleAppPractise\ConsoleApp\DomainLayer\obj\Debug\net6.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\ConsoleAppPractise\ConsoleApp\DomainLayer\obj\Debug\net6.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\ConsoleAppPractise\ConsoleApp\DomainLayer\obj\Debug\net6.0\DomainLayer.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\ConsoleAppPractise\ConsoleApp\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.CoreCompileInputs.cache

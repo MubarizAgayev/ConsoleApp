@@ -1,0 +1,5 @@
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\ConsoleAppPractise\ConsoleApp\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\ConsoleAppPractise\ConsoleApp\ServiceLayer\obj\Debug\net6.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\ConsoleAppPractise\ConsoleApp\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\ConsoleAppPractise\ConsoleApp\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\ConsoleAppPractise\ConsoleApp\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CoreCompileInputs.cache
